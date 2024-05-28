@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alertsfood</string>
+    <string name="text_toolbar_title">Alertas</string>
+    <string name="text_title_alert">Title</string>
+    <string name="text_date_alert">Date</string>
+    <string name="text_body_alert">Body</string>
+</resources>
