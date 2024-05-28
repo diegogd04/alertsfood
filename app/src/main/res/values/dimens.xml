@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_toolbar">30sp</dimen>
+    <dimen name="ic_filter">30dp</dimen>
+    <dimen name="image_alert_size">100dp</dimen>
+</resources>
